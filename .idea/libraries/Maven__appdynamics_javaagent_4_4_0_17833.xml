@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: appdynamics:javaagent:4.4.0.17833">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/appdynamics/javaagent/4.4.0.17833/javaagent-4.4.0.17833.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/appdynamics/javaagent/4.4.0.17833/javaagent-4.4.0.17833-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/appdynamics/javaagent/4.4.0.17833/javaagent-4.4.0.17833-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

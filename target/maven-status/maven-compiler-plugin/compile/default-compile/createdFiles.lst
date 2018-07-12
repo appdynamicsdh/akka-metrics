@@ -1,0 +1,13 @@
+samples\SampleContinuingEntry.class
+samples\SampleDataCollector.class
+MailboxEnqueueInterceptor.class
+ProcessingTimeInfoPoint.class
+samples\SampleGenericInterceptor.class
+MessageCache.class
+MailboxBean.class
+MailboxDequeueInterceptor.class
+ProcessingTimeInterceptor.class
+StashInterceptor.class
+samples\SampleExit.class
+samples\SampleInfoPoint.class
+samples\SampleOriginatingEntry.class
