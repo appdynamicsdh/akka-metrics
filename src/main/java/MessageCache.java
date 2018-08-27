@@ -1,10 +1,11 @@
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.WeakHashMap;
 
 public class MessageCache {
 
-    public static final HashMap<Object, MailboxBean> messages = new HashMap<Object,MailboxBean>();
-    public static final HashMap<String,Integer> runningActorMessages = new HashMap<>();
+    public static final WeakHashMap<Object, MailboxBean> messages = new WeakHashMap<Object,MailboxBean>();
+    public static final WeakHashMap<String,Integer> runningActorMessages = new WeakHashMap<>();
 
 
 }
